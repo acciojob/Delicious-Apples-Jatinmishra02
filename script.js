@@ -1,4 +1,3 @@
-//your code here
 function changePhoto(src) {
     document.getElementById('main-photo').src = src;
 }
